@@ -21,6 +21,16 @@
 					"Viele Ideen",
 					"Spannende Projekte"
 				]
+			},
+			{
+				"title": "Teilnahme",
+				"list_item": [
+					"Technik",
+					"Handwerk",
+					"Kommunikation",
+					"IT",
+					"Design"
+				]
 			}
 		]
 	}
