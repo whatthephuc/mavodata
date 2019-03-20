@@ -65,5 +65,10 @@
 	"travel": {
 		"title": "Anreise",
 		"description": "<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 14pt; margin-bottom: 14pt;\">Wer mit dem Auto anreisen m&ouml;chte, kann einen der vielen kostenlosen Parkpl&auml;tze beim Illwerke Zentrum Montafon (Anton-Ammann-Stra&szlig;e 12, 6773 Vandans, &Ouml;sterreich) nutzen. Zugfahrende kommen aber auch auf ihre Kosten: Der Bahnhof Kaltenbrunnen im Montafon ist nur wenige Gehminuten vom Veranstaltungsort entfernt. Alle Details findet ihr im <a href=\"http://fahrplan.oebb.at/bin/query.exe/dn\" target=\"_blank\" rel=\"noopener\">Fahrplan der &Ouml;BB.</a></p>"
+	},
+	"idea": {
+		"title": "Ideen- & Teamfindung",
+		"description": "<p>F&uuml;r alle Unschl&uuml;ssigen bieten wir einen Ideen- und Teamfindungs-Workshop an. Hier k&ouml;nnt ihr euch Gedanken &uuml;ber euer Projekt machen oder sogar ein Team finden. In den letzten Jahren konnten wir viele gl&uuml;ckliche Hackathon-Teilnehmende untereinander vermitteln.</p>\n<p>&nbsp;</p>\n<p>Die Ideenwerkstatt ist ein dreist&uuml;ndiger Workshop, bei dem die Kreativit&auml;t der Teilnehmenden zum Motto #rockit angeregt wird und eigene Ideen entwickelt werden. Ziel ist es, dass Projekte f&uuml;r den #UH19 definiert werden und noch gen&uuml;gend Zeit bleibt, sich nach der Ideenwerkstatt mit dem (neuen) Team zu organisieren.</p>\n<p>&nbsp;</p>\n<p>Die Ideenwerkstatt ist in Gruppen&uuml;bungen angelegt, damit der Spa&szlig; nicht zu kurz kommt und die Ideen zu den Teams und umgekehrt finden k&ouml;nnen. Wir glauben daran, dass Projekte mit Leidenschaft und Herzblut entstehen werden und verwenden daf&uuml;r moderne Methoden aus Design Thinking und Art of Hosting.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Wir bitten dich, um Anmeldung bis sp&auml;testens 17. Mai, damit wir uns entsprechend vorbereiten k&ouml;nnen. Die Teilnehmerpl&auml;tze sind begrenzt.</p>\n<p>&nbsp;</p>",
+		"link": "#"
 	}
 }
