@@ -10,5 +10,18 @@
 			"subtitle": "Vandans",
 			"image": "https://cdn.rawgit.com/leph83/mavodata/9a66e46ada1d635b0ab9ff1a8078a06d4fd65c6e/images/UH19_website_bg_bw.jpg"
 		}
-	]
+	],
+	"features": {
+		"feature": [
+			{
+				"title": "Der UH19",
+				"list_item": [
+					"26 Stunden Hackathon",
+					"200 Teilnehmende",
+					"Viele Ideen",
+					"Spannende Projekte"
+				]
+			}
+		]
+	}
 }
